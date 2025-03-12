@@ -15,7 +15,7 @@ This repository contains EDA on Muesli store data. Steps included are:
   Tools used: Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn
 
 
-Task:
+# Task
 A Muesli distribution company has approached you to help them understand their delivery process. They want to develop KPIs to help them keep track of the health of their business in order to improve the service they offer their customers.
 
 The warehouse manager described the workflow as follows:
