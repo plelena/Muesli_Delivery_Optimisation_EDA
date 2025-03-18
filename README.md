@@ -1,4 +1,4 @@
-# Muesli Delivery Optmisation
+# Muesli Delivery Optimisation
 
 This repository contains EDA on Muesli store data. Steps included are:
   - Data sourcing
