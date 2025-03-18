@@ -11,7 +11,8 @@ This repository contains EDA on Muesli store data. Steps included are:
   - KPI suggestions
   - Stakeholder presentation
   
-  Tools used: Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn
+  ## Tools used: 
+  Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn
 
 
 # Task
