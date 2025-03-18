@@ -3,7 +3,6 @@
 This repository contains EDA on Muesli store data. Steps included are:
   - Data sourcing
   - Data cleaning
-  - know your Data
   - Hypothesis creation
   - Data aggregation
   - Data Augmentation
